@@ -1,5 +1,5 @@
 Q 1. What are Pull Requests used for?
-
+	To synchronize your local repo with the remote master
 
 Q 2. Name 2 other examples of Version Control Systems apart from Git.
 
